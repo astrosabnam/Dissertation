@@ -1,3 +1,4 @@
+#This_program_calculates_star_formation_rate
 program can_sfr_cal1
 implicit none
 real,dimension(43)::ind,d,ed,b,eb,a,ea,ni,en,ext,f_o,sfr,beta,e_sfr,e_beta,e_ext,e_fo,m,e_m
